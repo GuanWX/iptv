@@ -1,7 +1,8 @@
 翡翠台,http://162.19.247.76:22222/live/tvbfc/index.m3u8
 三立台湾,http://162.19.247.76:22222/live/uch5/index.m3u8
 三立都会台,http://162.19.247.76:22222/live/uch6/index.m3u8
-CCTV-1 高清,http://113.207.84.197:8090/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
+CCTV-1 高清,https://dispatch.ulivetv.net/v/live/cgn2nfkwmp4w.m3u8?stream_id=cgn2nfkwmp4w&timestamp=1686048589&rand=WLW0LPerD4&uuid=9b647b3816b2a66a&from=web&sign=f2536edc0ab6bb9508a2bb893ac11448
+CCTV-1 高清,https://dispatch.ulivetv.net/v/live/cgn2nfkwmp4w.m3u8?stream_id=cgn2nfkwmp4w&timestamp=1685721833&rand=JSSzloaKJL&uuid=9b647b3816b2a66a&from=web&sign=d47285adee9ecb1be12096e350804efd
 CCTV-2 高清,http://113.207.84.197:8090/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
 CCTV-3 高清,http://113.207.84.197:8090/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
 CCTV-4 高清,http://113.207.84.197:8090/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
